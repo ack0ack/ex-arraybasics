@@ -12,6 +12,7 @@ exercise.change = function() {
     return fruits;
 
 };
+//try it out
 
 exercise.length = function() {
 
